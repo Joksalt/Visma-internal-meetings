@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VismaInternalMeetings", "VismaInternalMeetings.csproj", "{7345DC11-A1A9-45CE-9619-9932FA96A442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VismaInternalMeetingsTests", "..\VismaInternalMeetingsTests\VismaInternalMeetingsTests.csproj", "{1333F939-3649-469C-A450-D2E759DC033B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7345DC11-A1A9-45CE-9619-9932FA96A442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7345DC11-A1A9-45CE-9619-9932FA96A442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7345DC11-A1A9-45CE-9619-9932FA96A442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7345DC11-A1A9-45CE-9619-9932FA96A442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1333F939-3649-469C-A450-D2E759DC033B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1333F939-3649-469C-A450-D2E759DC033B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1333F939-3649-469C-A450-D2E759DC033B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1333F939-3649-469C-A450-D2E759DC033B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BA8CEA3-6D56-45A3-84E9-7E2011ACC9F6}
+	EndGlobalSection
+EndGlobal
